@@ -1,0 +1,5 @@
+SyntaxError: code interpretation error
+IndentationError: error using indentation in a wrong line
+NameError: error typing the name of a variable
+ValueError: error casting a variable
+TypeError: error using a variable
